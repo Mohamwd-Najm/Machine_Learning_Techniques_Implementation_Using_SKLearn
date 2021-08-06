@@ -1,15 +1,12 @@
 <h1 align="center">Hi, I'm Mohamed Najm</h1>
 <h3 align="center">A passionate Data analysist from Egypt</h3>
 
-- I’m currently working on [Machine Learning ##tichnices## course (https://www.coursera.org/specializations/deep-learning)
-
-**Master Deep Learning, and Break into AI**
-
-Instructor: [Andrew Ng](http://www.andrewng.org/)
+- I’m currently working on Machine Learning Techniques Implementation as you can see on this repo.
 
 ## Introduction
 
-This repo contains all my work for this specialization. All the code base are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
+ML Techniques are important topics to learn and implement so, I did that.
+
 
 ## What I want to say
 
@@ -18,23 +15,27 @@ This repo contains all my work for this specialization. All the code base are ta
 As a CS major student and a long-time self-taught learner, I have completed many CS related MOOCs on Coursera, Udacity and Udemy etc... I do understand the hard time you spend on understanding new concepts and debugging your program. Here I released these solutions, which are **only for your reference purpose**. So, Here the Programming Assignments for the first three courses of new version of the specialization. It may help you to save some time. And I hope you don't copy any part of the code (the programming assignments are fairly easy if you read the instructions carefully).
 
 
-## Programming Assignments
+## Machine Learning Techniques Implementation
 
-- Machinr Learning ##tichnices## implementation 
-  - super
+ - Here you will found implementation for those topics: 
+    - super
 
-  - [- Logistic Regression with a Neural Network mindset](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
-  - [- Planar data classification with one hidden layer](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
-  - [- Building your Deep Neural Network: Step by Step¶](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
-  - [- Deep Neural Network for Image Classification: Application](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
+  - [ Linear Regression]()
+  - [ Logistic Regression]( )
+  - [ Decision Trees and Random Forest](  )
+  - [ K Means Clustering]()
+  - [ K Nearest Neighbors]()
+  - [ SVM]()
+  - [ PCA]()
+  
+  
+  - []()
+  - []()
+  - []()
 
 - unsuperv
 
-  - [- Initialization](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
-  - [- Regularization](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb)
-  - [- Gradient Checking](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%20Checking.ipynb)
-  - [- Optimization Methods](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)
-  - [- TensorFlow Tutorial](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
+ 
 
 - Course 3: Structuring Machine Learning Projects
 
