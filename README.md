@@ -20,13 +20,13 @@ As a CS major student and a long-time self-taught learner, I have completed many
  - Here you will found implementation for those topics: 
     - super
 
-  - [ Linear Regression]()
-  - [ Logistic Regression]( )
-  - [ Decision Trees and Random Forest](  )
-  - [ K Means Clustering]()
+  - [ Linear Regression](https://github.com/Mohamwd-Najm/Machine_Learning_Techniques_Implementation/blob/main/Linear%20Regression.ipynb)
+  - [ Logistic Regression](https://github.com/Mohamwd-Najm/Machine_Learning_Techniques_Implementation/blob/main/Logistic%20Regression.ipynb)
+  - [ Decision Trees and Random Forest]( https://github.com/Mohamwd-Najm/Machine_Learning_Techniques_Implementation/blob/main/Decision%20Trees%20and%20Random%20Forest%20Implementation.ipynb)
+  - [ K Means Clustering](https://github.com/Mohamwd-Najm/Machine_Learning_Techniques_Implementation/blob/main/K%20Means%20Clustering%20Implementation%20.ipynb)
   - [ K Nearest Neighbors]()
-  - [ SVM]()
-  - [ PCA]()
+  - [ SVM](https://github.com/Mohamwd-Najm/Machine_Learning_Techniques_Implementation/blob/main/SVM.ipynb)
+  - [ PCA](https://github.com/Mohamwd-Najm/Machine_Learning_Techniques_Implementation/blob/main/PCA%20Implementation.ipynb)
   
   
   - []()
